@@ -1,0 +1,196 @@
+{
+  "project_info": {
+    "project_number": "947945457722",
+    "firebase_url": "https://faster-5dd74.firebaseio.com",
+    "project_id": "faster-5dd74",
+    "storage_bucket": "faster-5dd74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947945457722:android:8ea0f28d55f8e9814f4d03",
+        "android_client_info": {
+          "package_name": "com.jayeeapp.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947945457722-h9l0vhk04jhd2h5v4rnmsbgrl8dipfga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvWjkza0-KIjTG0vk3gBkB4CC6tSyRYwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947945457722-h9l0vhk04jhd2h5v4rnmsbgrl8dipfga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947945457722-46u15r8htd4esmojv0mo67g1ukocqkje.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ahmed.adm.faster",
+                "app_store_id": "1510069604"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947945457722:android:3e4171f0df5970884f4d03",
+        "android_client_info": {
+          "package_name": "faster_shop.faster.sa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947945457722-h9l0vhk04jhd2h5v4rnmsbgrl8dipfga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvWjkza0-KIjTG0vk3gBkB4CC6tSyRYwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947945457722-h9l0vhk04jhd2h5v4rnmsbgrl8dipfga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947945457722-46u15r8htd4esmojv0mo67g1ukocqkje.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ahmed.adm.faster",
+                "app_store_id": "1510069604"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947945457722:android:68d3218ad224f57a4f4d03",
+        "android_client_info": {
+          "package_name": "sa.faster.captain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947945457722-h9l0vhk04jhd2h5v4rnmsbgrl8dipfga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvWjkza0-KIjTG0vk3gBkB4CC6tSyRYwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947945457722-h9l0vhk04jhd2h5v4rnmsbgrl8dipfga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947945457722-46u15r8htd4esmojv0mo67g1ukocqkje.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ahmed.adm.faster",
+                "app_store_id": "1510069604"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947945457722:android:cc844557a5cdd34e4f4d03",
+        "android_client_info": {
+          "package_name": "sa.faster.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947945457722-h9l0vhk04jhd2h5v4rnmsbgrl8dipfga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvWjkza0-KIjTG0vk3gBkB4CC6tSyRYwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947945457722-h9l0vhk04jhd2h5v4rnmsbgrl8dipfga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947945457722-46u15r8htd4esmojv0mo67g1ukocqkje.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ahmed.adm.faster",
+                "app_store_id": "1510069604"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947945457722:android:dac73d233f30047a4f4d03",
+        "android_client_info": {
+          "package_name": "shop.faster.sa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947945457722-h9l0vhk04jhd2h5v4rnmsbgrl8dipfga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvWjkza0-KIjTG0vk3gBkB4CC6tSyRYwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947945457722-h9l0vhk04jhd2h5v4rnmsbgrl8dipfga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947945457722-46u15r8htd4esmojv0mo67g1ukocqkje.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ahmed.adm.faster",
+                "app_store_id": "1510069604"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

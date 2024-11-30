@@ -1,0 +1,117 @@
+name: taxi_app
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+2
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_maps_flutter: ^2.7.0
+  cached_network_image: ^3.2.3
+  flutter_bloc: ^8.1.6
+  bloc: ^8.1.4
+  equatable: ^2.0.5
+  shimmer: ^3.0.0
+  google_fonts: ^6.2.1
+  get: ^4.6.6
+  flutter_svg: ^1.1.4
+
+  fl_country_code_picker: ^0.0.2+1
+  pinput: ^2.2.12
+  firebase_core: ^3.2.0
+  firebase_auth: ^5.1.2
+  cloud_firestore: ^5.1.0
+  #firebase_storage: ^12.3.2
+  geocoding: ^3.0.0
+  flutter_credit_card: ^4.0.1
+  image_picker: ^1.1.2
+  dio: ^5.4.3+1
+  intl: ^0.19.0
+  get_storage: ^2.0.3
+#  flutter_local_notifications: 8.2.0
+  timeago: ^3.2.2
+  flutter_localizations:
+    sdk: flutter
+  connectivity_plus: ^2.1.0
+  loading_overlay: ^0.3.0
+  geolocator: ^12.0.0
+  flutter_launcher_icons: ^0.13.1
+  rename: ^3.0.2
+#  flutter_google_places_hoc081098: ^2.0.0
+  google_geocoding_plus: ^1.0.0
+  interactive_bottom_sheet: ^1.0.0
+  direct_select_flutter: ^1.1.1
+  ultra_map_place_picker: ^0.0.5
+  flutter_custom_clippers: ^2.1.0
+  curved_nav_bar: ^0.0.2
+  expandable: ^5.0.1
+  device_preview: ^1.2.0
+  dartz: ^0.10.1
+  in_app_webview: ^0.0.9
+  flutter_inappwebview: ^6.0.0
+  google_places_flutter: ^2.0.9
+  share_plus: ^4.5.3
+  pull_to_refresh: ^2.0.0
+  flutter_markdown: ^0.7.3+1
+  flutter_chat_ui: ^1.6.15
+  firebase_messaging: ^15.1.0
+  device_info_plus: ^10.1.2
+  signalr_pure: ^1.1.0
+  url_launcher: ^6.3.0
+  flutter_local_notifications: ^17.2.3
+  stylish_bottom_bar: ^1.1.0
+  animated_bottom_navigation_bar: ^1.3.3
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/jayee.jpg"
+
+  flutter_lints: ^3.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+    - assets/images/
+    - assets/icons/
+    - assets/svg/
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
